@@ -1,0 +1,15 @@
+.caja1{
+    background-color: blue;
+    color:white;
+    border-color:darkblue;
+    border-width: 10px;
+    border-style: solid;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.caja2{
+    background-color: yellow;
+}

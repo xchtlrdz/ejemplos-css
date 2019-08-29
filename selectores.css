@@ -1,0 +1,14 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    /*border: 1px solid black;*/
+}
+    strong{
+        font-size:30px;
+        color:red;
+    }
+.fondo-azul{
+    background-color: skyblue;
+}
+#ejemplo-id{
+    background-color: palegreen;
+}
